@@ -1,0 +1,7 @@
+Github
+
+Github is a webservice that works by implementing Git. Git is a software that allows version control 
+and collaboration with others as a way to allow project management. This webservice works with repositories
+that allow a person to upload their project for any potential collaborators to work on. This allows people to 
+keep track of their changes while working together on either the main thread or a branch of it, after reaching a 
+concensus they may bring everything together once it works as intended.
